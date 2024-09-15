@@ -36,3 +36,5 @@ A implementação dessas melhorias exigirá a integração de bibliotecas e serv
 - Norma ISO 27001: o que é, funções e como implementar - Serasa Experian. Disponível em: <https://www.serasaexperian.com.br/blog-pme/iso-27001/>.
 - Practical Attacks on LLMs: Full Guide | Iterasec. Disponível em: <https://iterasec.com/blog/practical-attacks-on-llms/#:~:text=Adversarial%20attacks%2C%20such%20as%20prompt>. Acesso em: 14 set. 2024.
 - LLM Attacks. Disponível em: <https://github.com/llm-attacks/llm-attacks>.
+- KRAŠOVEC, B. ARCHITECTURE SECURITY. [s.l: s.n.]. Disponível em: <https://indico.cern.ch/event/1297500/contributions/5454550/attachments/2729809/4746339/20231009_Security_architecture.pdf>. Acesso em: 15 set. 2024.
+- AGGARWAL, K. Distributed Logging: Designing a Robust System for Enhanced Monitoring. Disponível em: <https://medium.com/@krrishan7495/distributed-logging-designing-a-robust-system-for-enhanced-monitoring-64ddb0838882>. Acesso em: 15 set. 2024.
