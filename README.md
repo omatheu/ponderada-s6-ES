@@ -12,7 +12,7 @@ Com o aumento no uso de chatbots e assistentes virtuais, é essencial garantir q
 
 **Diagrama de Arquitetura**:  
 ![image](https://github.com/user-attachments/assets/4245747b-912e-4eeb-a522-89e4c3a89db2)
-<p><b>Fonte:</b> elaborado pelo autor.</p>
+<p><b>Fonte:</b> elaborado pelo autor. <a href="https://miro.com/app/board/uXjVLfcpC1Y=/?share_link_id=691554274221">Link</a>a</p>
 
 **Descrição Textual dos Módulos**:
 
